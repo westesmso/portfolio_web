@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Sistema de Gestão Acadêmica",
+    "category": "faculdade",
+    "description": "Aplicação web para controle de notas e frequência de alunos, desenvolvida como projeto integrador do curso.",
+    "technologies": ["Vue.js", "Tailwind CSS", "Node.js", "MySQL"],
+    "repoUrl": "https://github.com/seu-usuario/sistema-gestao-academica",
+    "screenshots": [
+      "https://placehold.co/640x400/1e1b2e/a78bfa?text=Tela+1",
+      "https://placehold.co/640x400/1e1b2e/a78bfa?text=Tela+2"
+    ],
+    "role": "Responsável pelo desenvolvimento do front-end em Vue.js e pela integração com a API REST criada em Node.js."
+  },
+  {
+    "id": 2,
+    "name": "App de Delivery (Projeto de Sala)",
+    "category": "faculdade",
+    "description": "Protótipo de aplicativo multiplataforma para pedidos de delivery, com carrinho de compras e acompanhamento de pedido.",
+    "technologies": ["Flutter", "Firebase"],
+    "repoUrl": "https://github.com/seu-usuario/app-delivery",
+    "screenshots": [
+      "https://placehold.co/640x400/1e1b2e/2dd4bf?text=Tela+1"
+    ],
+    "role": "Desenvolvimento das telas de carrinho e checkout, além da integração com o Firebase Authentication."
+  },
+  {
+    "id": 3,
+    "name": "Meu Portfólio Pessoal",
+    "category": "pessoal",
+    "description": "Este próprio portfólio, desenvolvido para apresentar minha trajetória acadêmica e profissional.",
+    "technologies": ["Vue.js", "Tailwind CSS", "Vite"],
+    "repoUrl": "https://github.com/seu-usuario/portfolio_web",
+    "screenshots": [
+      "https://placehold.co/640x400/1e1b2e/8250f7?text=Portf%C3%B3lio"
+    ],
+    "role": "Projeto individual, do design à implementação, hospedado via GitHub Pages/Vercel."
+  },
+  {
+    "id": 4,
+    "name": "Gerenciador de Tarefas",
+    "category": "pessoal",
+    "description": "Aplicativo de lista de tarefas com armazenamento local, criado para estudar gerenciamento de estado no Vue.js.",
+    "technologies": ["Vue.js", "Pinia", "Tailwind CSS"],
+    "repoUrl": "https://github.com/seu-usuario/gerenciador-tarefas",
+    "screenshots": [
+      "https://placehold.co/640x400/1e1b2e/14b8a6?text=Tarefas"
+    ],
+    "role": "Projeto pessoal para praticar composição de componentes e persistência com localStorage."
+  }
+]

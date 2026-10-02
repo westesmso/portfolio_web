@@ -1,0 +1,22 @@
+{
+  "name": "Seu Nome Completo",
+  "photo": "https://placehold.co/400x400/1e1b2e/c4b5fd?text=Foto",
+  "tagline": "Estudante de Desenvolvimento Multiplataforma",
+  "about": "Estudante apaixonado por tecnologia, focado em desenvolvimento web e mobile. Este portfólio reúne minha trajetória acadêmica e profissional dos últimos semestres.",
+  "github": "https://github.com/seu-usuario",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/seu-usuario",
+    "email": "seuemail@exemplo.com"
+  },
+  "course": {
+    "institution": "Fatec - Faculdade de Tecnologia",
+    "name": "Análise e Desenvolvimento de Sistemas",
+    "startDate": "2023-02",
+    "expectedEnd": "2026-12"
+  },
+  "languages": [
+    { "language": "Português", "level": "Nativo" },
+    { "language": "Inglês", "level": "Intermediário" },
+    { "language": "Espanhol", "level": "Básico" }
+  ]
+}
