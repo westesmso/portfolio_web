@@ -65,7 +65,7 @@
     "description": "Sistema para gerenciar um consultório odontológico, incluindo agendamento de consultas, cadastro de pacientes e controle de tratamentos.",
     "partner": "Fatec Itaquera; Professor Orientador",
     "technologies": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-    "repoUrl": "https://github.com/westesmso/OdontoCare",
+    "repoUrl": "https://github.com/OdontoDSM/API",
     "screenshots": [
       "/images/projects/odontocare/cadastroOdonto.png",
       "/images/projects/odontocare/loginOdonto.png",
