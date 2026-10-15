@@ -79,7 +79,7 @@
   {
     "id": 6,
     "name": "Simple Spent",
-    "category": "Projeto Pessoal",
+    "category": "pessoal",
     "semester": "5º semestre",
     "description": "Sistema para gerenciar despesas pessoais, incluindo cadastro de gastos, controle de orçamento e relatórios financeiros. O Sistema nasce com o propósito de simplificar minhas despesas, e questões que me tomavam muito tempo, como calcular precisamente os gastos com transporte público, e o que devolvo como dízimos ou ofertas.",
     "partner": "Projeto Individual",
@@ -95,7 +95,7 @@
   {
     "id": 7,
     "name": "Kindlern",
-    "category": "Projeto Pessoal",
+    "category": "pessoal",
     "semester": "5º semestre",
     "description": "Aplicativo para gerenciar livros e leituras, permitindo cadastro de livros, acompanhamento de progresso de leitura e organização de listas de leitura.",
     "partner": "Projeto Individual",
@@ -110,7 +110,7 @@
   },{
     "id": 8,
     "name": "SensoresRN",
-    "category": "Projeto de Faculdade",
+    "category": "faculdade",
     "semester": "5º semestre",
     "description": "Aplicativo para gerenciar sensores em dispositivos móveis, permitindo monitoramento em tempo real e configuração de alertas.",
     "partner": "Projeto Individual",
@@ -126,7 +126,7 @@
   {
     "id": 9,
     "name": "Docker Laravel Network",
-    "category": "Projeto de Faculdade",
+    "category": "faculdade",
     "semester": "5º semestre",
     "description": "Aplicativo para gerenciar sensores em dispositivos móveis, permitindo monitoramento em tempo real e configuração de alertas.",
     "partner": "Projeto Individual",
@@ -142,7 +142,7 @@
   {
     "id": 10,
     "name": "Flappy Bird",
-    "category": "Projeto de Faculdade",
+    "category": "faculdade",
     "semester": "5º semestre",
     "description": "Jogo inspirado no clássico Flappy Bird, desenvolvido para prática de conceitos de desenvolvimento de jogos em dispositivos móveis.",
     "partner": "Projeto Individual",
@@ -158,7 +158,7 @@
   {
     "id": 11,
     "name": "MakeBurger",
-    "category": "Projeto de Pessoal",
+    "category": "pessoal",
     "semester": "5º semestre",
     "description": "Aplicativo para gerenciar pedidos e personalização de hambúrgueres, desenvolvido para prática de conceitos de desenvolvimento de aplicativos móveis.",
     "partner": "Projeto Individual",
