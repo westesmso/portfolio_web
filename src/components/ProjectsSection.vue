@@ -28,15 +28,27 @@
         @click="selected = project"
       >
         <img
-          :src="project.screenshots?.[0]"
+          v-if="project.screenshots?.length"
+          :src="project.screenshots[0]"
           :alt="`Screenshot de ${project.name}`"
           class="h-40 w-full object-cover"
           loading="lazy"
         />
+        <div
+          v-else
+          class="flex h-40 items-center justify-center bg-gradient-to-br from-brand-900/80 via-slate-900 to-slate-800"
+        >
+          <span class="text-sm font-semibold uppercase tracking-[0.2em] text-brand-300">
+            {{ project.semester }}
+          </span>
+        </div>
         <div class="flex flex-1 flex-col p-5">
+          <p v-if="project.semester" class="text-xs font-medium uppercase tracking-wide text-brand-400">
+            {{ project.semester }}
+          </p>
           <h3 class="font-semibold text-white">{{ project.name }}</h3>
           <p class="mt-2 line-clamp-2 text-sm text-slate-400">{{ project.description }}</p>
-          <div class="mt-3 flex flex-wrap gap-1.5">
+          <div v-if="project.technologies?.length" class="mt-3 flex flex-wrap gap-1.5">
             <span
               v-for="tech in project.technologies.slice(0, 3)"
               :key="tech"

@@ -1,29 +1,227 @@
 [
   {
     "id": 1,
-    "name": "JavaScript Moderno: ES6+",
+    "name": "A prática do aprendizado",
     "institution": "Alura",
     "location": "Online",
-    "hours": 40,
-    "startDate": "2024-03",
-    "endDate": "2024-04"
+    "hours": 8,
+    "startDate": "2026-03",
+    "endDate": "2026-03"
   },
   {
     "id": 2,
-    "name": "Fundamentos de Vue.js 3",
-    "institution": "Origamid",
+    "name": "PHP Composer: Dependências, Autoload e Publicação",
+    "institution": "Alura",
     "location": "Online",
-    "hours": 30,
-    "startDate": "2024-08",
-    "endDate": "2024-09"
+    "hours": 6,
+    "startDate": "2026-03",
+    "endDate": "2026-03"
   },
   {
     "id": 3,
-    "name": "Introdução ao Desenvolvimento Mobile",
-    "institution": "Fatec",
-    "location": "Presencial",
-    "hours": 20,
-    "startDate": "2025-03",
-    "endDate": "2025-03"
+    "name": "Laravel: validando formulários, usando sessões e definindo relacionamentos",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-03",
+    "endDate": "2026-03"
+  },
+  {
+    "id": 4,
+    "name": "Laravel: transações, service container e autenticação",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-04",
+    "endDate": "2026-04"
+  },
+  {
+    "id": 5,
+    "name": "Laravel: e-mails, eventos assíncronos, uploads e testes",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-04",
+    "endDate": "2026-04"
+  },
+  {
+    "id": 6,
+    "name": "Laravel: construindo APIs",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-04",
+    "endDate": "2026-04"
+  },
+  {
+    "id": 7,
+    "name": "Python: crie a sua primeira aplicação",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-05",
+    "endDate": "2026-05"
+  },
+  {
+    "id": 8,
+    "name": "Python: aplicando a Orientação a Objetos",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 6,
+    "startDate": "2026-05",
+    "endDate": "2026-05"
+  },
+  {
+    "id": 9,
+    "name": "Python: avance na Orientação a Objetos e consuma API",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-05",
+    "endDate": "2026-05"
+  },
+  {
+    "id": 10,
+    "name": "Django: templates e boas práticas",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-05",
+    "endDate": "2026-05"
+  },
+  {
+    "id": 11,
+    "name": "Django: persistência de dados e Admin",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 10,
+    "startDate": "2026-06",
+    "endDate": "2026-06"
+  },
+  {
+    "id": 12,
+    "name": "Django: autenticação de formulários e alerta",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 10,
+    "startDate": "2026-06",
+    "endDate": "2026-06"
+  },
+  {
+    "id": 13,
+    "name": "Django: autenticação com OAuth2.0",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 10,
+    "startDate": "2026-06",
+    "endDate": "2026-06"
+  },
+  {
+    "id": 14,
+    "name": "Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 10,
+    "startDate": "2026-06",
+    "endDate": "Em andamento"
+  },
+  {
+    "id": 15,
+    "name": "Produtividade: otimizando sua rotina com inteligência artificial",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 6,
+    "startDate": "2026-06",
+    "endDate": "2026-06"
+  },
+  {
+    "id": 16,
+    "name": "Django: CRUD e persistência no S3",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-07",
+    "endDate": "2026-07"
+  },
+  {
+    "id": 17,
+    "name": "Pensamento computacional: fundamentos da computação e lógica de programação",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-07",
+    "endDate": "2026-07"
+  },
+  {
+    "id": 18,
+    "name": "Java: criando a sua primeira aplicação",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-07",
+    "endDate": "2026-07"
+  },
+  {
+    "id": 19,
+    "name": "Java: aplicando a Orientação a Objetos",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 10,
+    "startDate": "2026-07",
+    "endDate": "2026-07"
+  },
+  {
+    "id": 20,
+    "name": "Java: trabalhando com listas e coleções de dados",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 8,
+    "startDate": "2026-07",
+    "endDate": "2026-07"
+  },
+  {
+    "id": 21,
+    "name": "Java: consumindo API, gravando arquivos e lidando com erros",
+    "institution": "Alura",
+    "location": "Online",
+    "hours": 10,
+    "startDate": "2026-08",
+    "endDate": "2026-10"
+  },
+  {
+    "id": 22,
+    "name": "jQuery",
+    "institution": "W3Schools",
+    "location": "Online",
+    "hours": 14,
+    "startDate": "2026-03",
+    "endDate": "2026-03"
+  },
+  {
+    "id": 23,
+    "name": "SASS",
+    "institution": "W3Schools",
+    "location": "Online",
+    "hours": 6,
+    "startDate": "2026-05",
+    "endDate": "2026-05"
+  },
+  {
+    "id": 24,
+    "name": "PHP",
+    "institution": "W3Schools",
+    "location": "Online",
+    "hours": 12,
+    "startDate": "2026-06",
+    "endDate": "2026-06"
+  },
+  {
+    "id": 25,
+    "name": "Introdução ao JavaScript",
+    "institution": "Sololearn.com",
+    "location": "Online",
+    "hours": 14,
+    "startDate": "2023-01",
+    "endDate": "2023-01"
   }
 ]

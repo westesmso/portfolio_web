@@ -47,11 +47,11 @@ Basta alterar os arquivos em `src/data/*.json`, sem precisar mexer em componente
 - **profile.json**: nome, foto, tagline, sobre, GitHub, redes sociais, curso e idiomas.
 - **jobs.json**: lista de experiências profissionais (empresa, cargo, período, descrição).
 - **courses.json**: lista de cursos de extensão (nome, instituição, carga horária, período).
-- **projects.json**: lista de projetos, com `category` igual a `"faculdade"` ou `"pessoal"`, tecnologias,
-  link do repositório, screenshots e a descrição da sua participação.
+- **projects.json**: lista de projetos, com `category` igual a `"faculdade"` ou `"pessoal"`, semestre,
+  parceiro, tecnologias (quando informadas), link do repositório e screenshots.
 
-Substitua as imagens de placeholder (`https://placehold.co/...`) por fotos e screenshots reais — podem ser
-URLs externas ou arquivos colocados em `public/images/` e referenciados como `/images/arquivo.png`.
+Screenshots podem ser URLs externas ou arquivos colocados em `public/images/` e referenciados como
+`/images/arquivo.png`. Projetos sem screenshots usam um card visual alternativo.
 
 ## 🚀 Rodando localmente
 
@@ -78,4 +78,3 @@ O arquivo `vercel.json` já está configurado (`npm run build`, saída em `dist`
 
 Um workflow (`.github/workflows/deploy.yml`) já está pronto para publicar automaticamente a cada push na branch
 `main`. Basta habilitar o GitHub Pages no repositório (Settings → Pages → Source: GitHub Actions).
-

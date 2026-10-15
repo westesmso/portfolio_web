@@ -1,51 +1,95 @@
 [
   {
     "id": 1,
-    "name": "Sistema de Gestão Acadêmica",
+    "name": "Projeto Reciclar",
     "category": "faculdade",
-    "description": "Aplicação web para controle de notas e frequência de alunos, desenvolvida como projeto integrador do curso.",
-    "technologies": ["Vue.js", "Tailwind CSS", "Node.js", "MySQL"],
-    "repoUrl": "https://github.com/seu-usuario/sistema-gestao-academica",
+    "semester": "1º semestre",
+    "description": "Site para conscientizar sobre a reciclagem e facilitar o descarte correto de diferentes materiais, apresentando orientações sobre sua destinação e tempo de decomposição.",
+    "partner": "Sr. Wilson",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "repoUrl": "https://github.com/westesmso/Projeto_Reciclar",
     "screenshots": [
-      "https://placehold.co/640x400/1e1b2e/a78bfa?text=Tela+1",
-      "https://placehold.co/640x400/1e1b2e/a78bfa?text=Tela+2"
-    ],
-    "role": "Responsável pelo desenvolvimento do front-end em Vue.js e pela integração com a API REST criada em Node.js."
+      "/images/projects/projeto-reciclar/take_1.png",
+      "/images/projects/projeto-reciclar/take_2.png",
+      "/images/projects/projeto-reciclar/take_3.png"
+    ]
   },
   {
     "id": 2,
-    "name": "App de Delivery (Projeto de Sala)",
+    "name": "theHive S.A.L.A.",
     "category": "faculdade",
-    "description": "Protótipo de aplicativo multiplataforma para pedidos de delivery, com carrinho de compras e acompanhamento de pedido.",
-    "technologies": ["Flutter", "Firebase"],
-    "repoUrl": "https://github.com/seu-usuario/app-delivery",
+    "semester": "2º semestre",
+    "description": "Sistema desenvolvido como proposta para gerenciar e organizar as reservas dos laboratórios da Fatec Itaquera.",
+    "partner": "Fatec Itaquera; Rodrigo Faustino (professor orientador)",
+    "technologies": ["HTML", "CSS", "JavaScript", "PHP"],
+    "repoUrl": "https://github.com/westesmso/theHive----Sala",
     "screenshots": [
-      "https://placehold.co/640x400/1e1b2e/2dd4bf?text=Tela+1"
-    ],
-    "role": "Desenvolvimento das telas de carrinho e checkout, além da integração com o Firebase Authentication."
+      "/images/projects/thehive-sala/take_1.png",
+      "/images/projects/thehive-sala/take_2.png",
+      "/images/projects/thehive-sala/take_3.png"
+    ]
   },
   {
     "id": 3,
-    "name": "Meu Portfólio Pessoal",
-    "category": "pessoal",
-    "description": "Este próprio portfólio, desenvolvido para apresentar minha trajetória acadêmica e profissional.",
-    "technologies": ["Vue.js", "Tailwind CSS", "Vite"],
-    "repoUrl": "https://github.com/seu-usuario/portfolio_web",
-    "screenshots": [
-      "https://placehold.co/640x400/1e1b2e/8250f7?text=Portf%C3%B3lio"
-    ],
-    "role": "Projeto individual, do design à implementação, hospedado via GitHub Pages/Vercel."
+    "name": "Pilates Studio",
+    "category": "faculdade",
+    "semester": "3º semestre",
+    "description": "Sistema para gerenciar um estúdio de pilates, com cadastro de clientes, agendamento de aulas e controle de pagamentos.",
+    "partner": "Fatec Itaquera; Professor Marcos (professor orientador)",
+    "technologies": [],
+    "repoUrl": "https://github.com/westesmso/PI-Pilates-backend",
+    "screenshots": []
   },
   {
     "id": 4,
-    "name": "Gerenciador de Tarefas",
-    "category": "pessoal",
-    "description": "Aplicativo de lista de tarefas com armazenamento local, criado para estudar gerenciamento de estado no Vue.js.",
-    "technologies": ["Vue.js", "Pinia", "Tailwind CSS"],
-    "repoUrl": "https://github.com/seu-usuario/gerenciador-tarefas",
+    "name": "Ateliê Java Spring",
+    "category": "faculdade",
+    "semester": "4º semestre",
+    "description": "Sistema para gerenciar as ordens de serviço de um ateliê de costura, incluindo cadastro de clientes, controle de estoque, acompanhamento de prazos e pagamentos e gestão financeira.",
+    "partner": "Drih Ateliê; Softwork Solutions",
+    "technologies": [],
+    "repoUrl": "https://github.com/westesmso/Atelie_java_spring",
     "screenshots": [
-      "https://placehold.co/640x400/1e1b2e/14b8a6?text=Tarefas"
-    ],
-    "role": "Projeto pessoal para praticar composição de componentes e persistência com localStorage."
+      "/images/projects/driah/take_1.png",
+      "/images/projects/driah/take_2.png",
+      "/images/projects/driah/take_3.png",
+      "/images/projects/driah/take_4.png",
+      "/images/projects/driah/take_5.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "OdontoCare",
+    "category": "faculdade",
+    "semester": "5º semestre",
+    "description": "Sistema para gerenciar um consultório odontológico, incluindo agendamento de consultas, cadastro de pacientes e controle de tratamentos.",
+    "partner": "Fatec Itaquera; Professor Orientador",
+    "technologies": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    "repoUrl": "https://github.com/westesmso/OdontoCare",
+    "screenshots": [
+      "/images/projects/odontocare/cadastroOdonto.png",
+      "/images/projects/odontocare/loginOdonto.png",
+      "/images/projects/odontocare/agendaOdonto.png",
+      "/images/projects/odontocare/detalhesOdonto.png",
+      "/images/projects/odontocare/financeiroOdonto.png",
+      "/images/projects/odontocare/pacientesOdonto.png",
+      "/images/projects/odontocare/uploadOdonto.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Simple Spent",
+    "category": "Projeto Pessoal",
+    "semester": "5º semestre",
+    "description": "Sistema para gerenciar despesas pessoais, incluindo cadastro de gastos, controle de orçamento e relatórios financeiros. O Sistema nasce com o propósito de simplificar minhas despesas, e questões que me tomavam muito tempo, como calcular precisamente os gastos com transporte público, e o que devolvo como dízimos ou ofertas.",
+    "partner": "Projeto Individual",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "repoUrl": "https://github.com/westesmso/Simple-Spent",
+    "screenshots": [
+      "/images/projects/simple-spent/take1.png",
+      "/images/projects/simple-spent/take2.png",
+      "/images/projects/simple-spent/take3.png",
+      "/images/projects/simple-spent/take4.png"
+    ]
   }
 ]

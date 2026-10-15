@@ -2,12 +2,13 @@
   <BaseModal :model-value="modelValue" @update:model-value="$emit('update:modelValue', $event)">
     <template v-if="project">
       <p class="text-sm font-medium uppercase tracking-wide text-brand-400">
+        <template v-if="project.semester">{{ project.semester }} · </template>
         {{ project.category === 'faculdade' ? 'Projeto de Faculdade' : 'Projeto Pessoal' }}
       </p>
       <h3 class="mt-1 text-2xl font-semibold text-white">{{ project.name }}</h3>
       <p class="mt-4 leading-relaxed text-slate-300">{{ project.description }}</p>
 
-      <div class="mt-4 flex flex-wrap gap-2">
+      <div v-if="project.technologies?.length" class="mt-4 flex flex-wrap gap-2">
         <span
           v-for="tech in project.technologies"
           :key="tech"
@@ -28,9 +29,9 @@
         />
       </div>
 
-      <div class="mt-5">
-        <p class="text-sm font-medium text-slate-400">Minha participação</p>
-        <p class="mt-1 leading-relaxed text-slate-300">{{ project.role }}</p>
+      <div v-if="project.partner" class="mt-5">
+        <p class="text-sm font-medium text-slate-400">Parceiro</p>
+        <p class="mt-1 leading-relaxed text-slate-300">{{ project.partner }}</p>
       </div>
 
       <a

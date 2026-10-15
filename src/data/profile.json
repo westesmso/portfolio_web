@@ -1,16 +1,16 @@
 {
-  "name": "Seu Nome Completo",
-  "photo": "https://placehold.co/400x400/1e1b2e/c4b5fd?text=Foto",
-  "tagline": "Estudante de Desenvolvimento Multiplataforma",
+  "name": "Westes Mesquita da Silva Oliveira",
+  "photo": "https://media.licdn.com/dms/image/v2/D4D35AQFrJmUkQCaNJA/profile-framedphoto-shrink_400_400/B4DZ7LwH7gIEAU-/0/1781534851519?e=1792609200&v=beta&t=2_fNSfMwhhxbOaTgNkcqDO9mQPPdQLIZQs5yHS5fllU",
+  "tagline": "Desenvolvedor De Software | Java | PHP | MySQL",
   "about": "Estudante apaixonado por tecnologia, focado em desenvolvimento web e mobile. Este portfólio reúne minha trajetória acadêmica e profissional dos últimos semestres.",
   "github": "https://github.com/seu-usuario",
   "social": {
-    "linkedin": "https://www.linkedin.com/in/seu-usuario",
-    "email": "seuemail@exemplo.com"
+    "linkedin": "https://www.linkedin.com/in/westes-mesquita-da-silva-oliveira-85aa922b1/?isSelfProfile=true",
+    "email": "mesquita.westesoficial@gmail.com"
   },
   "course": {
     "institution": "Fatec - Faculdade de Tecnologia",
-    "name": "Análise e Desenvolvimento de Sistemas",
+    "name": "Desenvolvimento de Software Multiplataforma",
     "startDate": "2023-02",
     "expectedEnd": "2026-12"
   },

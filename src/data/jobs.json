@@ -1,20 +1,11 @@
 [
   {
     "id": 1,
-    "company": "Empresa Exemplo Ltda.",
-    "role": "Estagiário de Desenvolvimento de Software",
-    "startDate": "2024-02",
-    "endDate": null,
+    "company": "Secretaria do Verde e do Meio Ambiente - SVMA",
+    "role": "Estagiário em Desenvolvimento Multiplataforma",
+    "startDate": "2025-11",
+    "endDate": "2026-12",
     "current": true,
-    "description": "Desenvolvimento e manutenção de sistemas web utilizando Vue.js e Node.js. Participação em reuniões de planejamento ágil (Scrum), integração com APIs REST e correção de bugs em produção."
-  },
-  {
-    "id": 2,
-    "company": "Empresa Anterior S.A.",
-    "role": "Auxiliar Administrativo",
-    "startDate": "2022-06",
-    "endDate": "2023-12",
-    "current": false,
-    "description": "Suporte administrativo ao setor de TI, controle de chamados internos e organização de documentação de processos."
+    "description": "Estágio em desenvolvimento fullstack usando tecnologias como Laravel, Vue.js e Python Django. Cursado presencialmente e focado em projetos de administração e gestão interna dos sistemas da secretaria. Um ambiente onde pude praticar, aprender e refinar todas minhas qualificações técnicas."
   }
 ]
