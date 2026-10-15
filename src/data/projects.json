@@ -78,13 +78,13 @@
   },
   {
     "id": 6,
-    "name": "Simple Spent",
+    "name": "Calculadora de Gastos - Simple Spent",
     "category": "pessoal",
     "semester": "5º semestre",
     "description": "Sistema para gerenciar despesas pessoais, incluindo cadastro de gastos, controle de orçamento e relatórios financeiros. O Sistema nasce com o propósito de simplificar minhas despesas, e questões que me tomavam muito tempo, como calcular precisamente os gastos com transporte público, e o que devolvo como dízimos ou ofertas.",
     "partner": "Projeto Individual",
     "technologies": ["JavaScript", "TypeScript", "React Native"],
-    "repoUrl": "https://github.com/westesmso/Simple-Spent",
+    "repoUrl": "https://github.com/westesmso/calculadoraGastos",
     "screenshots": [
       "/images/projects/simple-spent/take1.jpeg",
       "/images/projects/simple-spent/take2.jpeg",
@@ -106,69 +106,6 @@
       "/images/projects/kindlern/take2.png",
       "/images/projects/kindlern/take3.png",
       "/images/projects/kindlern/take4.png"
-    ]
-  },{
-    "id": 8,
-    "name": "SensoresRN",
-    "category": "faculdade",
-    "semester": "5º semestre",
-    "description": "Aplicativo para gerenciar sensores em dispositivos móveis, permitindo monitoramento em tempo real e configuração de alertas.",
-    "partner": "Projeto Individual",
-    "technologies": ["JavaScript", "TypeScript", "React Native"],
-    "repoUrl": "https://github.com/westesmso/SensoresRN",
-    "screenshots": [
-      "/images/projects/sensoresrn/take1.png",
-      "/images/projects/sensoresrn/take2.png",
-      "/images/projects/sensoresrn/take3.png",
-      "/images/projects/sensoresrn/take4.png"
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Docker Laravel Network",
-    "category": "faculdade",
-    "semester": "5º semestre",
-    "description": "Aplicativo para gerenciar sensores em dispositivos móveis, permitindo monitoramento em tempo real e configuração de alertas.",
-    "partner": "Projeto Individual",
-    "technologies": ["JavaScript", "TypeScript", "React Native"],
-    "repoUrl": "https://github.com/westesmso/docker-laravel-network",
-    "screenshots": [
-      "/images/projects/sensoresrn/take1.png",
-      "/images/projects/sensoresrn/take2.png",
-      "/images/projects/sensoresrn/take3.png",
-      "/images/projects/sensoresrn/take4.png"
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Flappy Bird",
-    "category": "faculdade",
-    "semester": "5º semestre",
-    "description": "Jogo inspirado no clássico Flappy Bird, desenvolvido para prática de conceitos de desenvolvimento de jogos em dispositivos móveis.",
-    "partner": "Projeto Individual",
-    "technologies": ["JavaScript", "TypeScript", "React Native"],
-    "repoUrl": "https://github.com/westesmso/flappybird",
-    "screenshots": [
-      "/images/projects/flappybird/take1.png",
-      "/images/projects/flappybird/take2.png",
-      "/images/projects/flappybird/take3.png",
-      "/images/projects/flappybird/take4.png"
-    ]
-  },
-  {
-    "id": 11,
-    "name": "MakeBurger",
-    "category": "pessoal",
-    "semester": "5º semestre",
-    "description": "Aplicativo para gerenciar pedidos e personalização de hambúrgueres, desenvolvido para prática de conceitos de desenvolvimento de aplicativos móveis.",
-    "partner": "Projeto Individual",
-    "technologies": ["JavaScript", "TypeScript", "React Native"],
-    "repoUrl": "makeburger",
-    "screenshots": [
-      "/images/projects/makeburger/take1.png",
-      "/images/projects/makeburger/take2.png",
-      "/images/projects/makeburger/take3.png",
-      "/images/projects/makeburger/take4.png"
     ]
   }
 ]
